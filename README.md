@@ -9,6 +9,7 @@
 	membership_date VARCHAR(50)
         )
 
+copy all value from old table
 
     INSERT INTO club_member_info_cleaned
     SELECT *
