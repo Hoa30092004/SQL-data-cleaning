@@ -7,7 +7,7 @@
 	full_address VARCHAR(50),
 	job_title VARCHAR(50),
 	membership_date VARCHAR(50)
-)
+        )
 
 
     INSERT INTO club_member_info_cleaned
