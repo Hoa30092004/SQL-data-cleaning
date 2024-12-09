@@ -10,5 +10,5 @@
 )
 
     INSERT INTO club_member_info_cleaned
-SELECT *
-from club_member_info;
+    SELECT *
+    from club_member_info;
