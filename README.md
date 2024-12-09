@@ -9,6 +9,7 @@
 	membership_date VARCHAR(50)
 )
 
+
     INSERT INTO club_member_info_cleaned
     SELECT *
     from club_member_info;
